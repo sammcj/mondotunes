@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 1704
+wordpress_url: http://wp.mondotunes.org/?p=1704
+date: !binary |-
+  MjAxMS0wNS0yMSAwNTozMDowNiArMDAwMA==
+date_gmt: !binary |-
+  MjAxMS0wNS0yMSAwNTozMDowNiArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+<iframe width="560" height="315" src="//www.youtube.com/embed/t6FU1Fvn9Nk" frameborder="0"> </iframe>
+Orelha Negra - M.I.R.I.A.M. X Vhils
+<div class="attribution">(<span>Source:</span> <a href="http://www.youtube.com/">http://www.youtube.com/</a>)</div>

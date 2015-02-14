@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: I'm back...
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 936
+wordpress_url: http://wp.mondotunes.org/index.php/2012/04/14/im-back/
+date: !binary |-
+  MjAxMi0wNC0xNCAwMzozMTozMSArMDAwMA==
+date_gmt: !binary |-
+  MjAxMi0wNC0xNCAwMzozMTozMSArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+After a couple of weeks off, I&#8217;m back and have some brilliant new (mondo)tunes lined up for your aural pleasure. Stay tuned.
+Mr Mondo.

@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 1783
+wordpress_url: http://wp.mondotunes.org/?p=1783
+date: !binary |-
+  MjAxMS0wNS0wNyAwMDo0OTo1MyArMDAwMA==
+date_gmt: !binary |-
+  MjAxMS0wNS0wNyAwMDo0OTo1MyArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+[gallery]

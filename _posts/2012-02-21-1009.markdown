@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 1009
+wordpress_url: http://wp.mondotunes.org/index.php/2012/02/21/1009/
+date: !binary |-
+  MjAxMi0wMi0yMSAyMDowMjowMCArMDAwMA==
+date_gmt: !binary |-
+  MjAxMi0wMi0yMSAyMDowMjowMCArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+<a href='http://wp.mondotunes.org/wp-content/uploads/2012/02/tumblr_lzrebjnM1n1qjfheu.mp3' title='tumblr_lzrebjnM1n1qjfheu'>tumblr_lzrebjnM1n1qjfheu</a>

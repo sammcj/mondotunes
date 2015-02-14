@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 985
+wordpress_url: http://wp.mondotunes.org/index.php/2012/03/04/pia-no-jac/
+date: !binary |-
+  MjAxMi0wMy0wNCAwMzoyNDowMiArMDAwMA==
+date_gmt: !binary |-
+  MjAxMi0wMy0wNCAwMzoyNDowMiArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+<iframe width="560" height="315" src="//www.youtube.com/embed/FwC_gJUXJBs" frameborder="0"> </iframe>
+→Pia-no-jaC←　台風
+<div class="attribution">(<span>Source:</span> <a href="http://www.youtube.com/">http://www.youtube.com/</a>)</div>

@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: first!
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 1825
+wordpress_url: http://wp.mondotunes.org/?p=1825
+date: !binary |-
+  MjAxMS0wNS0wMyAwNzozNjo0NSArMDAwMA==
+date_gmt: !binary |-
+  MjAxMS0wNS0wMyAwNzozNjo0NSArMDAwMA==
+categories:
+- Mondo Music
+tags:
+- first
+- post
+- firstpost
+- sam mondo
+- music blog
+- music
+comments: []
+---
+I&#8217;m doing something I said I&#8217;d never do&#8230; start a blog.
+However, I figure it&#8217;s probably the best way to share some of the sweet tunes I often find myself emailing around.

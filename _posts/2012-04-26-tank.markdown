@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 881
+wordpress_url: http://wp.mondotunes.org/index.php/2012/04/26/tank/
+date: !binary |-
+  MjAxMi0wNC0yNiAwNDozMzoyNyArMDAwMA==
+date_gmt: !binary |-
+  MjAxMi0wNC0yNiAwNDozMzoyNyArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+
+菅野よう子  - Tank! 

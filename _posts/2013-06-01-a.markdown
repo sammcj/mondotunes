@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 128
+wordpress_url: http://wp.mondotunes.org/index.php/2013/06/01/a/
+date: !binary |-
+  MjAxMy0wNi0wMSAwNDozNDoxNSArMDAwMA==
+date_gmt: !binary |-
+  MjAxMy0wNi0wMSAwNDozNDoxNSArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+&lt;a href="http://monarchsfamily.bandcamp.com/track/spirit-of-the-rain" data-mce-href="http://monarchsfamily.bandcamp.com/track/spirit-of-the-rain"&gt;Spirit of the Rain by Monarchs&lt;/a&gt;

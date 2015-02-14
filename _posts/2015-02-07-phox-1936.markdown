@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Phox - 1936
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 3906
+wordpress_url: http://www.mondotunes.org/?p=3906
+date: !binary |-
+  MjAxNS0wMi0wNyAxMzozMTozNCArMDAwMA==
+date_gmt: !binary |-
+  MjAxNS0wMi0wNyAwMzozMTozNCArMDAwMA==
+categories:
+- Mondo Music
+tags:
+- pop
+- folk
+- indie
+comments: []
+---
+<iframe width="560" height="315" src="//www.youtube.com/embed/DAM6pm9qSww" frameborder="0"> </iframe>

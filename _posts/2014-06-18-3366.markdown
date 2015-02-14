@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 3366
+wordpress_url: http://www.mondotunes.org/?p=3366
+date: !binary |-
+  MjAxNC0wNi0xOCAxNToyMTo0MSArMDAwMA==
+date_gmt: !binary |-
+  MjAxNC0wNi0xOCAwNToyMTo0MSArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+<img src="http://media.boingboing.net/wp-content/uploads/2014/06/1ZzQCYs.gif" alt="joy-divisions-ian-curtis" />

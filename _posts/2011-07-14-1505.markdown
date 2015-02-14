@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 1505
+wordpress_url: http://wp.mondotunes.org/?p=1505
+date: !binary |-
+  MjAxMS0wNy0xNCAwNTozMTowNSArMDAwMA==
+date_gmt: !binary |-
+  MjAxMS0wNy0xNCAwNTozMTowNSArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+http://cache.reverbnation.com/widgets/swf/40/pro_widget.swf?id=artist_1036006&amp;posted_by=&amp;skin_id=PWAS1002&amp;border_color=000000&amp;auto_play=false&amp;shuffle=false
+<div class="attribution">(<span>Source:</span> <a href="http://cache.reverbnation.com/">http://cache.reverbnation.com/</a>)</div>

@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 157
+wordpress_url: http://wp.mondotunes.org/index.php/2013/05/14/a-2/
+date: !binary |-
+  MjAxMy0wNS0xNCAxMDowMjowNiArMDAwMA==
+date_gmt: !binary |-
+  MjAxMy0wNS0xNCAxMDowMjowNiArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+&lt;a href="http://listentothego.bandcamp.com/album/fiesta" data-mce-href="http://listentothego.bandcamp.com/album/fiesta"&gt;FIESTA by The GO&lt;/a&gt;

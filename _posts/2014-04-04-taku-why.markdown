@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Taku - Why
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 2554
+wordpress_url: http://www.mondotunes.org/?p=2554
+date: !binary |-
+  MjAxNC0wNC0wNCAxOTo1OTozMyArMDAwMA==
+date_gmt: !binary |-
+  MjAxNC0wNC0wNCAwOTo1OTozMyArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+<iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=2129436480/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/t=3/transparent=true/" seamless><a href="http://digicrates.bandcamp.com/album/beat-sketches-vol-1">Beat Sketches Vol. 1 by Taku</a></iframe>

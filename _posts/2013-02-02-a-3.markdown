@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 263
+wordpress_url: http://wp.mondotunes.org/index.php/2013/02/02/a-3/
+date: !binary |-
+  MjAxMy0wMi0wMiAwNzoyODoxMyArMDAwMA==
+date_gmt: !binary |-
+  MjAxMy0wMi0wMiAwNzoyODoxMyArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+&lt;a href="http://brotherhawk.bandcamp.com/album/affairs-of-plain-living" data-mce-href="http://brotherhawk.bandcamp.com/album/affairs-of-plain-living"&gt;Affairs of Plain Living by Brother Hawk&lt;/a&gt;

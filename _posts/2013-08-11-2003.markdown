@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Dave Brubeck w/ young Russian violinist – Live Improv Performance
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 2003
+wordpress_url: http://mondotunes.org/?p=2003
+date: !binary |-
+  MjAxMy0wOC0xMSAyMDo0OTozMyArMDAwMA==
+date_gmt: !binary |-
+  MjAxMy0wOC0xMSAxMDo0OTozMyArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+Dave Brubeck w/ young Russian violinist - Live Improv Performance
+<iframe width="560" height="315" src="//www.youtube.com/embed/ceiDpI_ZabA&feature=player_embedded" frameborder="0"> </iframe>

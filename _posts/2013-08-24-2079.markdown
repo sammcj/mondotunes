@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 2079
+wordpress_url: http://mondotunes.org/?p=2079
+date: !binary |-
+  MjAxMy0wOC0yNCAxMzozNTo0NCArMDAwMA==
+date_gmt: !binary |-
+  MjAxMy0wOC0yNCAwMzozNTo0NCArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+<img class="aligncenter size-full wp-image-2080" alt="Linn Sondek LP12" src="http://mondotunes.org/wp-content/uploads/2013/08/20130824-DSCF1271.jpg" width="1280" height="850" />

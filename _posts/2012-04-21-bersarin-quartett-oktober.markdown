@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 897
+wordpress_url: http://wp.mondotunes.org/index.php/2012/04/21/bersarin-quartett-oktober/
+date: !binary |-
+  MjAxMi0wNC0yMSAwODo1OTo0MSArMDAwMA==
+date_gmt: !binary |-
+  MjAxMi0wNC0yMSAwODo1OTo0MSArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+<iframe width="560" height="315" src="//www.youtube.com/embed/nFNZAmS-3xQ" frameborder="0"> </iframe>
+Bersarin Quartett - Oktober
+<div class="attribution">(<span>Source:</span> <a href="http://www.youtube.com/">http://www.youtube.com/</a>)</div>

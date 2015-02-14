@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 934
+wordpress_url: http://wp.mondotunes.org/index.php/2012/04/14/electric-guest-american-daydream/
+date: !binary |-
+  MjAxMi0wNC0xNCAwMzozOTo1NiArMDAwMA==
+date_gmt: !binary |-
+  MjAxMi0wNC0xNCAwMzozOTo1NiArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+<iframe width="560" height="315" src="//www.youtube.com/embed/yEFAQg3vPr8" frameborder="0"> </iframe>
+Electric Guest - American Daydream
+<div class="attribution">(<span>Source:</span> <a href="http://www.youtube.com/">http://www.youtube.com/</a>)</div>

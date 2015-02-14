@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 300!
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 1241
+wordpress_url: http://wp.mondotunes.org/?p=1241
+date: !binary |-
+  MjAxMS0xMS0yMSAwODoxNzozOCArMDAwMA==
+date_gmt: !binary |-
+  MjAxMS0xMS0yMSAwODoxNzozOCArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+This is my 300th post on MONDO/TUNES.
+Hope you&#8217;ve all enjoyed the ride so far.

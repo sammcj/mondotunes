@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 1550
+wordpress_url: http://wp.mondotunes.org/?p=1550
+date: !binary |-
+  MjAxMS0wNi0yNiAwNTozMDowNiArMDAwMA==
+date_gmt: !binary |-
+  MjAxMS0wNi0yNiAwNTozMDowNiArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+&#013;
+<div class="attribution">(<span>Source:</span> <a href="http://bandcamp.com/">http://bandcamp.com/</a>)</div>

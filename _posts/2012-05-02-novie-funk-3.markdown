@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: mrmondo
+  login: mrmondo
+  email: not@telling
+  url: ''
+author_login: mrmondo
+author_email: not@telling
+wordpress_id: 863
+wordpress_url: http://wp.mondotunes.org/index.php/2012/05/02/novie-funk-3/
+date: !binary |-
+  MjAxMi0wNS0wMiAwNToyOTo0MyArMDAwMA==
+date_gmt: !binary |-
+  MjAxMi0wNS0wMiAwNToyOTo0MyArMDAwMA==
+categories:
+- Mondo Music
+tags: []
+comments: []
+---
+http://vimeo.com/40707226
+Novie - Funk 3
+<div class="attribution">(<span>Source:</span> <a href="http://vimeo.com/">http://vimeo.com/</a>)</div>
