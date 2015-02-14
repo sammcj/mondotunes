@@ -1,59 +1,103 @@
-title:            MONDOTUNES
-description:      Sam Mondo's Music Brain dump
-disqus_shortname: mondotunes
-reading_time:     false
-words_per_minute: 200
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url: http://mondotunes.org
+# --- Serving options --- #
 
-# Owner/author information
-owner:
-  name:           Sam Mondo
-  avatar:         avatar.jpg
-  bio:            "Music Collector & DevOps Geek"
-  twitter: mondo_tunes
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (username.github.io) then use these settings:
+url: "https://mondotunes.org"
+baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
+# Name of website
+title: "MONDOTUNES"
+
+# Short description of your site
+description: "Mondotunes, reinvented, only updated when I'm not lazy"
+
+keywords: "music,blues,metal,jazz,expiermental,rock,indie,edm"
+
+# --- Navigation bar options --- #
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/images/samm.png"
+
+  # List of links in the navigation bar
+navbar-links:
+  Home: ""
+  smcleod.net: "https://smcleod.net"
+  LastFM: "http://www.last.fm/user/sammcj2000"
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Sam McLeod
+  #email: "youremail@domain.com"
   github: sammcj
+  twitter: s_mcleod
+  #linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
 
-# Background image to be tiled on all pages
-background: 
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: false
+  email: false
+  twitter: true
+  github: true
+  linkedin: false
+  stackoverflow: false
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-24686966-1
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "mondotunes.org"  # eg. "deanattali.com/beautiful-jekyll"
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Australia/Melbourne
-future:      true
+# --- Misc --- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+#disqus: "smcleodnet"
+
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: "UA-59178670-1"
+
+excerpt_separator: "<!--more-->"
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "Australia/Melbourne"
+markdown: kramdown
 highlighter: pygments
-markdown:    kramdown
-gems:
-  - jekyll-sitemap
-sass:
-  sass_dir: _sass
-  style: compressed
+permalink: /:categories/:title/
+paginate: 12
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
 
-# Amount of post to show on home page
-paginate: 5
+# Exclude these files from production site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - Vagrantfile
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: true
-
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+gems: [jekyll-paginate]

@@ -22,4 +22,3 @@ comments: []
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/NntmAj60O60" frameborder="0"> </iframe>
 Bobby Mc Ferrin - Blackbird
-<div class="attribution">(<span>Source:</span> <a href="http://www.youtube.com/">http://www.youtube.com/</a>)</div>
