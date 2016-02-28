@@ -19,7 +19,7 @@ title: "MONDOTUNES"
 # Short description of your site
 description: "Mondotunes, reinvented, only updated when I'm not lazy"
 
-keywords: "music,blues,metal,jazz,expiermental,rock,indie,edm"
+keywords: "music,blues,metal,jazz,expiermental,rock,indie,edm,hiphop,lastfm,alt"
 
 # --- Navigation bar options --- #
 
@@ -46,7 +46,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: false
   email: false
   twitter: true
