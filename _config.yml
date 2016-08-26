@@ -100,4 +100,4 @@ exclude:
   - CNAME
   - Vagrantfile
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-admin]
