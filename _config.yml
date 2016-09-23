@@ -77,6 +77,10 @@ highlighter: pygments
 permalink: /:categories/:title/
 paginate: 8
 
+
+youtube:
+  api_key: AIzaSyBywAklZGjA38t6egL_GQa27K9ERw91hrg
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
