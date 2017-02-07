@@ -73,7 +73,7 @@ excerpt_separator: "<!--more-->"
 # Output options (more information on Jekyll's site)
 timezone: "Australia/Melbourne"
 markdown: kramdown
-highlighter: pygments
+#highlighter: pygments
 permalink: /:categories/:title/
 paginate: 8
 
