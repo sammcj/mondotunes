@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: '65daysofstatic - Heat Death Infinity Splitter'
+title: 'Top albums of 2017 - Head over to smcleod.net'
 ---
 
 I know, I've been slack and haven't really updated this blog throughout 2017.
