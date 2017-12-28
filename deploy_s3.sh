@@ -1,7 +1,7 @@
 # Run Jekyll
 echo "-> Running Jekyll"
-jekyll clean
-jekyll build
+bundle exec jekyll clean
+bundle exec jekyll build
 
 # Upload to S3!
 echo "\n\n-> Uploading to S3"
@@ -26,4 +26,4 @@ s3cmd sync --acl-public --exclude '.DS_Store' --exclude 'assets/'  _site/ s3://m
 s3cmd sync --acl-public --delete-removed  _site/ s3://mondotunes.org/
 
 # Clean local directory
-jekyll clean
+bundle exec jekyll clean
