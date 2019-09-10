@@ -75,7 +75,7 @@ timezone: "Australia/Melbourne"
 markdown: kramdown
 #highlighter: pygments
 permalink: /:categories/:title/
-paginate: 8
+paginate: 16
 
 
 youtube:
